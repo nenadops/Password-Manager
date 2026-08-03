@@ -21,8 +21,6 @@ A lightweight, modern, and user-friendly desktop application built with Python (
 Make sure you have **Python 3.x** installed on your system. 
 *(Note: `tkinter`, `json`, and `os` are built-in Python standard libraries, so no external package installation via `pip` is required!)*
 
----
-
 ## 🛠️ Installation & Running
 
 1. Clone or download this repository to your local machine.
