@@ -27,4 +27,4 @@ Make sure you have **Python 3.x** installed on your system.
 2. Open your terminal or command prompt inside the project folder.
 3. Run the application using the following command:
    ```bash
-   python main.py
+   python .py
