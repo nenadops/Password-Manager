@@ -25,6 +25,17 @@ Make sure you have **Python 3.x** installed on your system.
 
 1. Clone or download this repository to your local machine.
 2. Open your terminal or command prompt inside the project folder.
-3. Run the application using the following command:
-   ```bash
-   python Password_Manager_in_Python.py
+3. Run the application using the following command:                   python Password_Manager_in_Python.py
+
+
+
+
+
+<img width="543" height="848" alt="data_savee" src="https://github.com/user-attachments/assets/c70d548b-5211-4854-adbb-29c2efd68c01" />
+
+
+
+<img width="584" height="361" alt="passwords_json" src="https://github.com/user-attachments/assets/7420bbe3-b6b7-46a1-9da5-7710b905ac20" />
+
+
+
